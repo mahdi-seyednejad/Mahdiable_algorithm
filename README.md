@@ -1,4 +1,4 @@
-# Mahdiable😁_algorithm
+# Mahdiable😁 Algorithm
 
 # Cryptocurrency Arbitrage: Leveraging Order Book Analysis for Profit
 
